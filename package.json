@@ -1,0 +1,18 @@
+{
+  "name": "@codesqwerl/tampermonkey",
+  "version": "0.2.0",
+  "description": "A collection of tampermonkey scripts",
+  "author": "Marina Berti <marina@codesqwerl.com>",
+  "license": "MIT",
+  "scripts": {
+    "lint": "npx eslint",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesqwerl/tampermonkey.git"
+  },
+  "devDependencies": {
+    "eslint": "^7.28.0"
+  }
+}
